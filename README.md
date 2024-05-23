@@ -28,10 +28,6 @@
 - Dump Enemies
 - Game Speed
 
-#### Visuals
-
-- -
-
 #### Misc
 
 - FPS Indicator
